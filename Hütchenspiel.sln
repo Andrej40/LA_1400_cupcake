@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hütchenspiel", "Hütchenspiel\Hütchenspiel.csproj", "{5E53DC76-EBCC-42B9-91EC-C1EEE5C36AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E53DC76-EBCC-42B9-91EC-C1EEE5C36AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E53DC76-EBCC-42B9-91EC-C1EEE5C36AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E53DC76-EBCC-42B9-91EC-C1EEE5C36AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E53DC76-EBCC-42B9-91EC-C1EEE5C36AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B1F77C0D-5366-4002-A64F-B9EC9E23E859}
+	EndGlobalSection
+EndGlobal
